@@ -1,0 +1,30 @@
+header{
+  background-color: red;
+  height:50px;
+  width:100%;
+}
+
+.main-visual{
+  background-color: orange;
+  height:500px;
+  width:100%;
+}
+
+main{
+  height:1400px;
+  width:100%;
+  background-color: white;
+}
+
+.sidebar-left{
+  height:1400px;
+  width:230px;
+  background-color: limegreen;
+  
+}
+
+.blog{
+  height:1400px;
+  width:500px;
+  background-color: green;
+}
